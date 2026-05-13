@@ -1,0 +1,6 @@
+scikit-learn==1.5.2
+otter-grader==5.7.1
+matplotlib
+seaborn
+numpy
+pandas
